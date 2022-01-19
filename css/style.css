@@ -429,6 +429,7 @@ p {
 
 .header-logo-support{
     border-bottom: 1px solid #cecece;
+	height: 90px;
 }
 
 .support-button{}
@@ -464,9 +465,7 @@ p {
 .support-button .button{
     margin-left: 60px;
 }
-.logoimg {
-	height: 90px;
-}
+
 
 /*===== Header Menu =====*/
 
