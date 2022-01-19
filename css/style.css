@@ -52,7 +52,6 @@
 
 img {
 	max-width: 100%;
-	height: 80px;
 }
 
 a:focus,
@@ -464,6 +463,9 @@ p {
 
 .support-button .button{
     margin-left: 60px;
+}
+.logoimg {
+	height: 90px;
 }
 
 /*===== Header Menu =====*/
